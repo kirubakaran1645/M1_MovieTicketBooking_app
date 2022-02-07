@@ -1,2 +1,2 @@
-# M1_projectgoal_application
-MOVIE TICKET BOOKING SYSTEM
+# M1_MovietTicketBooking_APP
+
