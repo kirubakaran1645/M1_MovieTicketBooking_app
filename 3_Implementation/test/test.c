@@ -9,10 +9,10 @@ void tearDown()
 {
   
 }
-void test_changepriceticket(void)
+void test_changeticketprice(void)
 {
     int price1=700;
-    TEST_ASSERT_EQUAL(700,changepriceticket(price1));
+    TEST_ASSERT_EQUAL(700,changeticketprice(price1));
     
 }
 
@@ -20,6 +20,6 @@ int main(void)
 {
   UNITY_BEGIN();
   
-  RUN_TEST(test_changepriceticket);
+  RUN_TEST(test_changeticketprice);
   return UNITY_END();
 }
