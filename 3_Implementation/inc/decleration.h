@@ -1,3 +1,6 @@
+struct moviedetails person[300];
+int count = 0;
+int TicketGenerateId = 1000;
 int changeticketprice(int);
 void bookinghistory(int *,int,int );
 int moviechoice(void);
