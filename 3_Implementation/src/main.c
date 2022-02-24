@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "moviedetails.c"
-#include "decleration.c"
+#include "decleration.h"
 #include <strings.h>
 struct moviedetails person[300];
 int count = 0;
