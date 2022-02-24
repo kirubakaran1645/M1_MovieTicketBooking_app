@@ -1,5 +1,5 @@
 #include "unity.h"
-#include "decleration.c"
+#include "decleration.h"
 
 void setUp()
 {
